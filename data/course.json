@@ -1,0 +1,42 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ]
+  ],
+  "legacy_uid": "e44d98af-bb75-407b-eb11-d9dac1dbfbc1",
+  "instructors": {
+    "content": [
+      "802c1474-03bd-08cb-bf2b-230180a5cf37"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9a5adfd4-04e8-c129-2f80-aec22537cab8",
+    "website": "4-665-contemporary-architecture-and-critical-debate-spring-2002"
+  },
+  "course_title": "Contemporary Architecture and Critical Debate",
+  "course_description": "This class, required of all Master of Architecture students, presents a critical review of works, theories, and polemics in architecture in the aftermath of World War II. The aim is to present a historical understanding of the period, and to develop a meaningful framework to assess contemporary issues in architecture. Special attention will be paid to historiographic questions of how architects construe the terms of their \"present.\"\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.665",
+  "course_image_thumbnail": {
+    "content": "6582b1e4-fac4-7292-f1cb-bed069f4b0cc",
+    "website": "4-665-contemporary-architecture-and-critical-debate-spring-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "65171c38-d955-433a-a2be-0b0ad96ff2aa",
+  "site_short_id": "4.665-spring-2002",
+  "title": "Course Metadata"
+}
